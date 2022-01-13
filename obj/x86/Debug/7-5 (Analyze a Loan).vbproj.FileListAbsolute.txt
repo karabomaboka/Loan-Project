@@ -1,0 +1,59 @@
+C:\Users\David\Documents\Books\1VB2010\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\bin\Debug\7-5 (Analyze a Loan).exe
+C:\Users\David\Documents\Books\1VB2010\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\bin\Debug\7-5 (Analyze a Loan).pdb
+C:\Users\David\Documents\Books\1VB2010\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\bin\Debug\7-5 (Analyze a Loan).xml
+C:\Users\David\Documents\Books\1VB2010\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Books\1VB2010\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\WindowsApplication1.frmLoan.resources
+C:\Users\David\Documents\Books\1VB2010\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\David\Documents\Books\1VB2010\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\7-5 (Analyze a Loan).exe
+C:\Users\David\Documents\Books\1VB2010\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\7-5 (Analyze a Loan).xml
+C:\Users\David\Documents\Books\1VB2010\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\7-5 (Analyze a Loan).pdb
+C:\Users\David\Documents\Books\1VB2010\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\David\Documents\Books\1VB2010\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\data\Dropbox\Books\VB2012\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\7-5 (Analyze a Loan).xml
+C:\data\Dropbox\Books\VB2012\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\7-5 (Analyze a Loan).pdb
+C:\data\Dropbox\Books\VB2012\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\bin\Debug\7-5 (Analyze a Loan).exe
+C:\data\Dropbox\Books\VB2012\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\bin\Debug\7-5 (Analyze a Loan).pdb
+C:\data\Dropbox\Books\VB2012\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\bin\Debug\7-5 (Analyze a Loan).xml
+C:\data\Dropbox\Books\VB2012\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\WindowsApplication1.frmLoan.resources
+C:\data\Dropbox\Books\VB2012\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\data\Dropbox\Books\VB2012\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\7-5 (Analyze a Loan).vbproj.GenerateResource.Cache
+C:\data\Dropbox\Books\VB2012\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\7-5 (Analyze a Loan).exe
+C:\Users\dis_000\Dropbox\Books\VB2012\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\7-5 (Analyze a Loan).exe
+C:\Users\dis_000\Dropbox\Books\VB2012\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\7-5 (Analyze a Loan).xml
+C:\Users\dis_000\Dropbox\Books\VB2012\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\7-5 (Analyze a Loan).pdb
+C:\Users\dis_000\Dropbox\Books\VB2012\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\bin\Debug\7-5 (Analyze a Loan).exe
+C:\Users\dis_000\Dropbox\Books\VB2012\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\bin\Debug\7-5 (Analyze a Loan).pdb
+C:\Users\dis_000\Dropbox\Books\VB2012\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\bin\Debug\7-5 (Analyze a Loan).xml
+C:\Users\dis_000\Dropbox\Books\VB2012\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\WindowsApplication1.frmLoan.resources
+C:\Users\dis_000\Dropbox\Books\VB2012\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\dis_000\Dropbox\Books\VB2012\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\7-5 (Analyze a Loan).vbproj.GenerateResource.Cache
+C:\Users\David\Dropbox\Books\VB2012\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\7-5 (Analyze a Loan).exe
+C:\Users\David\Dropbox\Books\VB2012\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\7-5 (Analyze a Loan).xml
+C:\Users\David\Dropbox\Books\VB2012\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\7-5 (Analyze a Loan).pdb
+C:\Users\David\Dropbox\Books\VB2012\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\bin\Debug\7-5 (Analyze a Loan).exe
+C:\Users\David\Dropbox\Books\VB2012\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\bin\Debug\7-5 (Analyze a Loan).pdb
+C:\Users\David\Dropbox\Books\VB2012\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\bin\Debug\7-5 (Analyze a Loan).xml
+C:\Users\David\Dropbox\Books\VB2012\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\WindowsApplication1.frmLoan.resources
+C:\Users\David\Dropbox\Books\VB2012\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\David\Dropbox\Books\VB2012\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\7-5 (Analyze a Loan).vbproj.GenerateResource.Cache
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\7-5 (Analyze a Loan).exe
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\7-5 (Analyze a Loan).xml
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\7-5 (Analyze a Loan).pdb
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\bin\Debug\7-5 (Analyze a Loan).exe
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\bin\Debug\7-5 (Analyze a Loan).pdb
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\bin\Debug\7-5 (Analyze a Loan).xml
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\WindowsApplication1.frmLoan.resources
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\7-5 (Analyze a Loan).vbproj.GenerateResource.Cache
+C:\Dropbox\Books\VB2014\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\7-5 (Analyze a Loan).vbprojResolveAssemblyReference.cache
+C:\Dropbox\Books\VB2017\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\bin\Debug\7-5 (Analyze a Loan).exe
+C:\Dropbox\Books\VB2017\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\bin\Debug\7-5 (Analyze a Loan).pdb
+C:\Dropbox\Books\VB2017\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\bin\Debug\7-5 (Analyze a Loan).xml
+C:\Dropbox\Books\VB2017\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\7-5 (Analyze a Loan).vbprojResolveAssemblyReference.cache
+C:\Dropbox\Books\VB2017\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\WindowsApplication1.frmLoan.resources
+C:\Dropbox\Books\VB2017\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Dropbox\Books\VB2017\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\7-5 (Analyze a Loan).vbproj.GenerateResource.Cache
+C:\Dropbox\Books\VB2017\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\7-5 (Analyze a Loan).vbproj.CoreCompileInputs.cache
+C:\Dropbox\Books\VB2017\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\7-5 (Analyze a Loan).exe
+C:\Dropbox\Books\VB2017\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\7-5 (Analyze a Loan).xml
+C:\Dropbox\Books\VB2017\Instructors CD\Programs\Ch07\7-5 (Analyze a Loan)\obj\x86\Debug\7-5 (Analyze a Loan).pdb
